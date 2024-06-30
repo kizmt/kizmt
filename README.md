@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi I'm Scott, otherwise known as k1z
+- 🧙‍♂️ Web developer interested in blockchain, defi, gaming
+- 🔎 I’m currently working on a Solana Explorer
+- 🧪 I’m looking to collaborate on Solana projects
+- 📫 Contact -> @toadofdestiny on X
 
 <!--
 **kizmt/kizmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
